@@ -1,0 +1,9 @@
+location                    = "West Europe"
+resource_group_name         = "testtask"
+sql_server_name             = "sqlservermain1"
+sql_admin_username          = "adminuser"
+sql_database_name           = "sql-database"
+virtual_network_name        = "virtualnetwork1"
+subnet_name                 = "subnet1"
+vm_admin_username           = "olehboliachok"
+allowed_ips                 = ["85.223.209.18", "10.0.0.0/16", "194.44.253.72"]
